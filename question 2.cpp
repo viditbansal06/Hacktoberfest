@@ -7,5 +7,6 @@ int main()
 	printf("%d\n",n);
 	printf("%c\n",c);
 	printf("%f",f1);
+	printf("hacktoberfest");
 	return 0;
 }
